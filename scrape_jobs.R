@@ -758,7 +758,7 @@ write.csv(listings, "scrape_jobs\\cloud+engineer_careerbuilder.csv")
 
 
 ##############################################################################################################
-#       STAGE 3 - MERGE INDEED+CAREERBUILDER csv OUTPUTS AND CLEAN THE DATA       
+#       STAGE 3 - MERGE INDEED+CAREERBUILDER csv OUTPUTS AND CLEAN THE DATA                                  #
 ##############################################################################################################
 
 ##############################################################################################################
